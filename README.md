@@ -1,12 +1,12 @@
-# Distributed-File-System
+# Distributed File System
 
 Distributed File Service with 2PC Deletion
 
 How to run:
 
 1. There will be two parts: 
-  a. Chat_Client
-  b. Chat_Server
+  a. Client
+  b. Server
 
 2. Go to Netbeans, and select File --> Open Project.
 
